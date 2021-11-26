@@ -4,20 +4,23 @@ div{
 	position: absolute;
 	width: 90px;
 }
+.d1{
+	left: 10px;
+}
 
 #d1{
 
-	left: 150px;
+	left: 120px;
 }
 .d2{
 
-	left: 300px;
+	left: 230px;
 }
 #d2{
 
-	left: 450px;
+	left: 340px;
 }
 .d3{
 
-	left: 600px;
+	left: 450px;
 }
