@@ -1,0 +1,23 @@
+div{
+	border: 2px solid #4D0084;
+	background-color:#65FEFE ;
+	position: absolute;
+	width: 90px;
+}
+
+#d1{
+
+	left: 150px;
+}
+.d2{
+
+	left: 300px;
+}
+#d2{
+
+	left: 450px;
+}
+.d3{
+
+	left: 600px;
+}
